@@ -7,8 +7,8 @@ Visualization Type of those 3 tiles should be:
 3. *Line Chart*
 
 After that you need to run these code in Visual Studio:
-1. *program.cs*
-2. *class.cs*
+1. *Program.cs*
+2. *temp.cs*
 
 Make sure to update the **"Values"** and **"powerBiUrl"**.
 
