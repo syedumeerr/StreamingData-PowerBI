@@ -1,0 +1,10 @@
+C:\Users\Syed Umer\source\repos\TemperatureSensors\bin\Debug\TemperatureSensors.exe.config
+C:\Users\Syed Umer\source\repos\TemperatureSensors\bin\Debug\TemperatureSensors.exe
+C:\Users\Syed Umer\source\repos\TemperatureSensors\bin\Debug\TemperatureSensors.pdb
+C:\Users\Syed Umer\source\repos\TemperatureSensors\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Syed Umer\source\repos\TemperatureSensors\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Syed Umer\source\repos\TemperatureSensors\obj\Debug\TemperatureSensors.csproj.AssemblyReference.cache
+C:\Users\Syed Umer\source\repos\TemperatureSensors\obj\Debug\TemperatureSensors.csproj.CoreCompileInputs.cache
+C:\Users\Syed Umer\source\repos\TemperatureSensors\obj\Debug\TemperatureSensors.csproj.CopyComplete
+C:\Users\Syed Umer\source\repos\TemperatureSensors\obj\Debug\TemperatureSensors.exe
+C:\Users\Syed Umer\source\repos\TemperatureSensors\obj\Debug\TemperatureSensors.pdb
